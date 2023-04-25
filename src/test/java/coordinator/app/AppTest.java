@@ -17,4 +17,13 @@ public class AppTest
     {
         assertTrue( true );
     }
+
+    /**
+     * Rigorous Test 2 :-)
+     */
+    @Test
+    public void testeTrue()
+    {
+        assertTrue( true );
+    }
 }
